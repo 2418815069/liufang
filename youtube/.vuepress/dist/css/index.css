@@ -1,0 +1,16 @@
+.head{
+    background-color: palegreen;
+    height: 40px;
+  }
+  .navbar{
+      background-color: blue;
+  }
+  .site-name{
+      color: white !important;
+  }
+  /* .navbar span{
+    color: white !important;
+} */
+  .sidebar{
+      width: 250px;
+  }

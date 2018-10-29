@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "dependencies": {
+    "create-nuxt-app": "^2.1.1"
+  }
+}
