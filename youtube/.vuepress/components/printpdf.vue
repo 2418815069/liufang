@@ -1,6 +1,7 @@
 <template>
     <div>
   <el-button type="primary" @click="exportpdf">export pdf</el-button>
+   <el-button type="primary" @click="exportpdf">的脚步才能上车 pdf</el-button>
   <ul>
       <li v-for="todo in todos"></li>
   </ul>

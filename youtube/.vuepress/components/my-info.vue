@@ -10,6 +10,7 @@
   <el-step title="进行中"></el-step>
   <el-step title="步骤 3"></el-step>
 </el-steps></el-tab-pane>
+    <el-tab-pane label="角色管理" name="two">角色管理</el-tab-pane>
     <el-tab-pane label="角色管理" name="third">角色管理</el-tab-pane>
     <el-tab-pane label="定时任务补偿" name="fourth">定时任务补偿</el-tab-pane>
   </el-tabs>
