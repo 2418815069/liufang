@@ -6,9 +6,9 @@
     </el-carousel-item>
   </el-carousel></el-tab-pane>
     <el-tab-pane label="配置管理" name="second"><el-steps :space="200" :active="1" finish-status="success">
-  <el-step title="已完成"></el-step>
+  <!-- <el-step title="已完成"></el-step>
   <el-step title="进行中"></el-step>
-  <el-step title="步骤 3"></el-step>
+  <el-step title="步骤 3"></el-step> -->
 </el-steps></el-tab-pane>
     <el-tab-pane label="角色管理" name="third">角色管理</el-tab-pane>
     <el-tab-pane label="定时任务补偿" name="fourth">定时任务补偿</el-tab-pane>
